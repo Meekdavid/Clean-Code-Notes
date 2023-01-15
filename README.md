@@ -317,6 +317,7 @@ It turns out to be very difficult for programmers to learn to follow this rule a
 It’s hard to make a small switch statement. 6 Even a switch statement with only two cases is larger than I’d like a single block or function to be. It’s also hard to make a switch statement that does one thing. By their nature, switch statements always do N things. Unfortunately we can’t always avoid switch statements, but we can make sure that each switch statement is buried in a low-level class and is never repeated. We do this, of course, with polymorphism.
 
 ### Use Descriptive Names
+### David Effiong Mboko
 
 > You know you are working on clean code when each routine turns out to be pretty much what you expected
 
